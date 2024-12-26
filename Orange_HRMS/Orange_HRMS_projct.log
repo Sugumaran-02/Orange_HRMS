@@ -1,0 +1,74 @@
+2024-12-25 19:21:58,587 [INFO ] Step_definitions.browser [main] Execution start
+2024-12-25 19:21:58,591 [INFO ] Step_definitions.browser [main] Properties are loaded
+2024-12-25 19:21:58,594 [INFO ] Step_definitions.browser [main] Browser is null
+2024-12-25 19:22:24,826 [INFO ] Step_definitions.VeifyEMP_details_step_Def [main] User entered into directory page
+2024-12-25 19:22:35,395 [INFO ] Step_definitions.VeifyEMP_details_step_Def [main] org.openqa.selenium.remote.UnreachableBrowserException: Error communicating with the remote browser. It may have died.
+Build info: version: '4.25.0', revision: '8a8aea2337'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.11'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [00a48e103d7c4dd9f98bdc519ed67ed1, findElement [value, using]]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 131.0.6778.205, chrome: {chromedriverVersion: 131.0.6778.204 (52183f9e99a..., userDataDir: C:\Users\sugum\AppData\Loca...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:63325}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:63325/devtoo..., se:cdpVersion: 131.0.6778.205, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 00a48e103d7c4dd9f98bdc519ed67ed1
+2024-12-25 19:22:35,407 [INFO ] Step_definitions.VeifyEMP_details_step_Def [main] org.openqa.selenium.remote.UnreachableBrowserException: Error communicating with the remote browser. It may have died.
+Build info: version: '4.25.0', revision: '8a8aea2337'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.11'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [00a48e103d7c4dd9f98bdc519ed67ed1, findElement [value, using]]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 131.0.6778.205, chrome: {chromedriverVersion: 131.0.6778.204 (52183f9e99a..., userDataDir: C:\Users\sugum\AppData\Loca...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:63325}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:63325/devtoo..., se:cdpVersion: 131.0.6778.205, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 00a48e103d7c4dd9f98bdc519ed67ed1
+2024-12-25 19:22:35,479 [INFO ] Step_definitions.browser [main] Execution start
+2024-12-25 19:22:35,480 [INFO ] Step_definitions.browser [main] Properties are loaded
+2024-12-25 19:23:36,958 [INFO ] Step_definitions.browser [main] Execution start
+2024-12-25 19:23:36,963 [INFO ] Step_definitions.browser [main] Properties are loaded
+2024-12-25 19:23:36,965 [INFO ] Step_definitions.browser [main] Browser is null
+2024-12-25 19:23:44,987 [INFO ] Step_definitions.VeifyEMP_details_step_Def [main] User successfully logged into the webpage and entered into homepage
+2024-12-25 19:23:47,467 [INFO ] Step_definitions.VeifyEMP_details_step_Def [main] User entered into directory page
+2024-12-25 19:23:48,073 [INFO ] Step_definitions.VeifyEMP_details_step_Def [main] User enter the username
+2024-12-25 19:23:48,318 [INFO ] Step_definitions.VeifyEMP_details_step_Def [main] User click the search button
+2024-12-25 19:23:58,419 [INFO ] Step_definitions.VeifyEMP_details_step_Def [main] org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//div[text()="Admin"]"}
+  (Session info: chrome=131.0.6778.205)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Build info: version: '4.25.0', revision: '8a8aea2337'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.11'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [708582055a0137b8943a91b00a691482, findElement {using=xpath, value=//div[text()="Admin"]}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 131.0.6778.205, chrome: {chromedriverVersion: 131.0.6778.204 (52183f9e99a..., userDataDir: C:\Users\sugum\AppData\Loca...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:63411}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:63411/devtoo..., se:cdpVersion: 131.0.6778.205, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 708582055a0137b8943a91b00a691482
+2024-12-25 19:23:58,450 [INFO ] Step_definitions.browser [main] Execution start
+2024-12-25 19:23:58,451 [INFO ] Step_definitions.browser [main] Properties are loaded
+2024-12-25 20:47:46,090 [INFO ] Step_definitions.browser [main] Execution start
+2024-12-25 20:47:46,098 [INFO ] Step_definitions.browser [main] Properties are loaded
+2024-12-25 20:47:46,101 [INFO ] Step_definitions.browser [main] Browser is null
+2024-12-25 20:47:55,889 [INFO ] Step_definitions.VeifyEMP_details_step_Def [main] User successfully logged into the webpage and entered into homepage
+2024-12-25 20:47:57,422 [INFO ] Step_definitions.VeifyEMP_details_step_Def [main] User entered into directory page
+2024-12-25 20:47:58,016 [INFO ] Step_definitions.VeifyEMP_details_step_Def [main] User enter the username
+2024-12-25 20:47:58,278 [INFO ] Step_definitions.VeifyEMP_details_step_Def [main] User click the search button
+2024-12-25 20:48:08,359 [INFO ] Step_definitions.VeifyEMP_details_step_Def [main] org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//div[text()="Admin"]"}
+  (Session info: chrome=131.0.6778.205)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Build info: version: '4.25.0', revision: '8a8aea2337'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.11'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [9f7f202ebcc5568ae480489debc62c20, findElement {using=xpath, value=//div[text()="Admin"]}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 131.0.6778.205, chrome: {chromedriverVersion: 131.0.6778.204 (52183f9e99a..., userDataDir: C:\Users\sugum\AppData\Loca...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:52813}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:52813/devtoo..., se:cdpVersion: 131.0.6778.205, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 9f7f202ebcc5568ae480489debc62c20
+2024-12-25 20:48:08,405 [INFO ] Step_definitions.browser [main] Execution start
+2024-12-25 20:48:08,406 [INFO ] Step_definitions.browser [main] Properties are loaded
+2024-12-25 21:35:15,648 [INFO ] Step_definitions.browser [main] Execution start
+2024-12-25 21:35:15,655 [INFO ] Step_definitions.browser [main] Properties are loaded
+2024-12-25 21:35:15,659 [INFO ] Step_definitions.browser [main] Browser is null
+2024-12-25 21:35:26,712 [INFO ] Step_definitions.VeifyEMP_details_step_Def [main] User successfully logged into the webpage and entered into homepage
+2024-12-25 21:35:27,973 [INFO ] Step_definitions.VeifyEMP_details_step_Def [main] User entered into directory page
+2024-12-25 21:35:28,776 [INFO ] Step_definitions.VeifyEMP_details_step_Def [main] User enter the username
+2024-12-25 21:35:29,003 [INFO ] Step_definitions.VeifyEMP_details_step_Def [main] User click the search button
+2024-12-25 21:35:39,057 [INFO ] Step_definitions.VeifyEMP_details_step_Def [main] org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//div[text()="Admin"]"}
+  (Session info: chrome=131.0.6778.205)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Build info: version: '4.25.0', revision: '8a8aea2337'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.11'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [183da0405d71ac1f8f5793742dada0f3, findElement {using=xpath, value=//div[text()="Admin"]}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 131.0.6778.205, chrome: {chromedriverVersion: 131.0.6778.204 (52183f9e99a..., userDataDir: C:\Users\sugum\AppData\Loca...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:64630}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:64630/devtoo..., se:cdpVersion: 131.0.6778.205, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 183da0405d71ac1f8f5793742dada0f3
+2024-12-25 21:35:39,125 [INFO ] Step_definitions.browser [main] Execution start
+2024-12-25 21:35:39,126 [INFO ] Step_definitions.browser [main] Properties are loaded
